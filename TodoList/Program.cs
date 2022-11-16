@@ -9,7 +9,7 @@ tommy.Naam = "Tommy";
 tommy.GewichtInKilo = 40;
 
 var zipper = new Hond();
-zipper.Naam = "Zipper";
+zipper.Naam = "Sipper";
 zipper.GewichtInKilo = 15;
 
 var mijnHonden = new List<Hond>();
